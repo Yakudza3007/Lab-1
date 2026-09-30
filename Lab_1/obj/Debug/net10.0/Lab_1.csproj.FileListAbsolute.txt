@@ -1,0 +1,14 @@
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\bin\Debug\net10.0\Lab_1.exe
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\bin\Debug\net10.0\Lab_1.deps.json
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\bin\Debug\net10.0\Lab_1.runtimeconfig.json
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\bin\Debug\net10.0\Lab_1.dll
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\bin\Debug\net10.0\Lab_1.pdb
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\Lab_1.AssemblyInfoInputs.cache
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\Lab_1.AssemblyInfo.cs
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\Lab_1.dll
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\refint\Lab_1.dll
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\Lab_1.pdb
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\Lab_1.genruntimeconfig.cache
+C:\Users\yakun\RiderProjects\ConsoleApp2\Lab_1\obj\Debug\net10.0\ref\Lab_1.dll
