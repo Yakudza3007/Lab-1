@@ -14,7 +14,7 @@ public partial class Lab_1
             switch (numberTask)
             {
                 case 1:
-                    int xOne;
+                    int xOne = 0;
                     while (true)
                     {
                         Console.Write(
@@ -39,7 +39,7 @@ public partial class Lab_1
                     break;
 
                 case 2:
-                    int xTwo;
+                    int xTwo = 0;
                     while (true)
                     {
                         Console.Write(
@@ -78,7 +78,7 @@ public partial class Lab_1
                     break;
 
                 case 3:
-                    char xThree;
+                    char xThree = ' ';
                     while (true)
                     {
                         Console.Write(
@@ -113,7 +113,7 @@ public partial class Lab_1
                     break;
 
                 case 4:
-                    int variableOne;
+                    int variableOne = 0;
                     while (true)
                     {
                         Console.Write(
@@ -129,7 +129,7 @@ public partial class Lab_1
                             "попробуйте ещё раз");
                     }
 
-                    int variableTwo;
+                    int variableTwo = 0;
                     while (true)
                     {
                         Console.Write(
@@ -164,7 +164,7 @@ public partial class Lab_1
                     break;
 
                 case 5:
-                    int preVariable;
+                    int preVariable = 0;
                     while (true)
                     {
                         Console.Write(
@@ -182,7 +182,7 @@ public partial class Lab_1
 
                     for (int i = 2; i < 6; i++)
                     {
-                        int variable;
+                        int variable = 0;
                         while (true)
                         {
                             Console.Write(
@@ -210,7 +210,7 @@ public partial class Lab_1
                     break;
 
                 case 6:
-                    int variableThree;
+                    int variableThree = 0;
                     while (true)
                     {
                         Console.Write(
@@ -226,7 +226,7 @@ public partial class Lab_1
                             "попробуйте ещё раз");
                     }
 
-                    int variableFour;
+                    int variableFour = 0;
                     while (true)
                     {
                         Console.Write(
@@ -250,7 +250,7 @@ public partial class Lab_1
                     break;
 
                 case 7:
-                    int variableFive;
+                    int variableFive = 0;
                     while (true)
                     {
                         Console.Write(
@@ -266,7 +266,7 @@ public partial class Lab_1
                             "попробуйте ещё раз");
                     }
 
-                    int variableSix;
+                    int variableSix = 0;
                     while (true)
                     {
                         Console.Write(
@@ -289,7 +289,7 @@ public partial class Lab_1
                     break;
 
                 case 8:
-                    int variableSeven;
+                    int variableSeven = 0;
                     while (true)
                     {
                         Console.Write("Введите x: ");
@@ -304,7 +304,7 @@ public partial class Lab_1
                             "попробуйте ещё раз");
                     }
 
-                    int variableEight;
+                    int variableEight = 0;
                     while (true)
                     {
                         Console.Write("Введите y: ");
@@ -319,7 +319,7 @@ public partial class Lab_1
                             "попробуйте ещё раз");
                     }
 
-                    int variableNine;
+                    int variableNine = 0;
                     while (true)
                     {
                         Console.Write("Введите z: ");
@@ -355,7 +355,7 @@ public partial class Lab_1
                     break;
 
                 case 9:
-                    int variableEleven;
+                    int variableEleven = 0;
                     while (true)
                     {
                         Console.Write(
@@ -388,7 +388,7 @@ public partial class Lab_1
                     break;
 
                 case 11:
-                    int variableTwelve;
+                    int variableTwelve = 0;
                     while (true)
                     {
                         Console.Write(
@@ -413,7 +413,7 @@ public partial class Lab_1
                     break;
 
                 case 12:
-                    int variableThirteen;
+                    int variableThirteen = 0;
                     while (true)
                     {
                         Console.Write(
@@ -429,7 +429,7 @@ public partial class Lab_1
                             "попробуйте ещё раз");
                     }
 
-                    int variableFourteen;
+                    int variableFourteen = 0;
                     while (true)
                     {
                         Console.Write(
@@ -454,7 +454,7 @@ public partial class Lab_1
                     break;
 
                 case 13:
-                    int variableFifteen;
+                    int variableFifteen = 0;
                     while (true)
                     {
                         Console.Write(
@@ -487,7 +487,7 @@ public partial class Lab_1
                     break;
 
                 case 14:
-                    int variableSixteen;
+                    int variableSixteen = 0;
                     while (true)
                     {
                         Console.Write("Введите x: ");
@@ -513,7 +513,7 @@ public partial class Lab_1
                     break;
 
                 case 16:
-                    int findLastSize;
+                    int findLastSize = 0;
                     while (true)
                     {
                         Console.Write(
@@ -552,7 +552,7 @@ public partial class Lab_1
                         }
                     }
 
-                    int findLastX;
+                    int findLastX = 0;
                     while (true)
                     {
                         Console.Write(
@@ -577,7 +577,7 @@ public partial class Lab_1
                     break;
 
                 case 17:
-                    int addSize;
+                    int addSize = 0;
                     while (true)
                     {
                         Console.Write(
@@ -614,7 +614,7 @@ public partial class Lab_1
                         }
                     }
 
-                    int addX;
+                    int addX = 0;
                     while (true)
                     {
                         Console.Write(
@@ -630,7 +630,7 @@ public partial class Lab_1
                             "попробуйте ещё раз");
                     }
 
-                    int addPos;
+                    int addPos = 0;
                     while (true)
                     {
                         Console.Write(
@@ -654,7 +654,7 @@ public partial class Lab_1
                     break;
 
                 case 18:
-                    int reverseSize;
+                    int reverseSize = 0;
                     while (true)
                     {
                         Console.Write(
@@ -700,7 +700,7 @@ public partial class Lab_1
                     break;
 
                 case 19:
-                    int concatSizeOne;
+                    int concatSizeOne = 0;
                     while (true)
                     {
                         Console.Write(
@@ -740,7 +740,7 @@ public partial class Lab_1
                         }
                     }
 
-                    int concatSizeTwo;
+                    int concatSizeTwo = 0;
                     while (true)
                     {
                         Console.Write(
@@ -788,7 +788,7 @@ public partial class Lab_1
                     break;
 
                 case 20:
-                    int deleteSize;
+                    int deleteSize = 0;
                     while (true)
                     {
                         Console.Write(

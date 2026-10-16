@@ -238,7 +238,7 @@ public partial class Lab_1
         while (true)
         {
             attempts++;
-            int guess;
+            int guess = 0;
             while (true)
             {
                 Console.Write(
